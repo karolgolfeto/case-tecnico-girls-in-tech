@@ -1,0 +1,11 @@
+{
+  "name": "case-tecnico-girls-in-tech",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "execute": "node ."
+  },
+  "author": "Karol Golfeto",
+  "license": "ISC"
+}
